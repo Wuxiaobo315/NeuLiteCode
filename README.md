@@ -1,4 +1,4 @@
-# NeuLite_AAAI
+# NeuLite
 
 ## :fire: This is the official deployment code of NeuLite:sparkles::sparkles::sparkles:～
 
